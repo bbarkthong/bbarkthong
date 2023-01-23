@@ -73,6 +73,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-green?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/-AWS-green?style=for-the-badge&logo=Amazon-AWS)
+![GCP](https://img.shields.io/badge/-GCP-green?style=for-the-badge&logo=Google-Cloud)
 
 <!--
 **bbarkthong/bbarkthong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
