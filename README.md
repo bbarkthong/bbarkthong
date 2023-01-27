@@ -18,6 +18,12 @@
     <td>GS25/랄라블라 본부시스템 운영</td>
   </tr>
   <tr>
+    <td>2020.08~2020.11</td>
+    <td>GSITM</td>
+    <td>GS The Fresh 차세대시스템 구축</td>
+    <td>차세대시스템 제휴 배치 설계/개발</td>
+  </tr>
+  <tr>
     <td>2019.01~2021.05</td>
     <td>GSITM</td>
     <td>랄라블라 시스템 운영</td>
@@ -31,7 +37,7 @@
   </tr>
   <tr>
     <td>2011.03~2014.05</td>
-    <td>xxxx</td>
+    <td>(주)디와이즈</td>
     <td>GS-Watsons 시스템 운영</td>
     <td>GS-Watsons 본부/점포/POS 시스템 운영</td>
   </tr>
