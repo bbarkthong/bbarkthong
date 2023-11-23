@@ -12,9 +12,15 @@
     <th>상세업무</th>
   </tr>
   <tr>
-    <td>2023.02~현재</td>
+    <td>2023.11~현재</td>
     <td>GSITM</td>
-    <td>GS리테일/GS홈쇼핑 SAP 통합 프로젝트</td>
+    <td>편의점 가맹 타입 및 제도 신규 개발</td>
+    <td>GS리테일 가맹지원 파트</td>
+  </tr>
+  <tr>
+    <td>2023.02~2023.11</td>
+    <td>GSITM</td>
+    <td>SAP 재무통합 Legacy 대응개발</td>
     <td>GS리테일 가맹지원 파트</td>
   </tr>
   <tr>
