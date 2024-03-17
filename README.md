@@ -12,6 +12,12 @@
     <th>상세업무</th>
   </tr>
   <tr>
+    <td>2024.03~</td>
+    <td>GSITM</td>
+    <td>52g studio</td>
+    <td>GS25 POS 개선</td>
+  </tr>
+  <tr>
     <td>2023.11~2024.03</td>
     <td>GSITM</td>
     <td>편의점 가맹 타입 및 제도 신규 개발</td>
