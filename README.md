@@ -15,12 +15,24 @@
     <td>2024.03~</td>
     <td>GSITM</td>
     <td>52g studio</td>
-    <td>GS25 POS 개선</td>
+    <td>GS25 POS 개선, GSMBiz 관리소, 52g Lab 팀장</td>
   </tr>
   <tr>
-    <td>2023.11~2024.03</td>
+    <td>2025.03~2025.06</td>
     <td>GSITM</td>
-    <td>편의점 가맹 타입 및 제도 신규 개발</td>
+    <td>GS리테일 통합HR 대응개발</td>
+    <td>수퍼통합PL, 오픈PL</td>
+  </tr>
+  <tr>
+    <td>2024.11~2025.02</td>
+    <td>GSITM</td>
+    <td>Hy 아동급식카드 결제 연동</td>
+    <td>PM</td>
+  </tr>
+  <tr>
+    <td>2023.02~2023.11</td>
+    <td>GSITM</td>
+    <td>SAP 재무통합 Legacy 대응개발</td>
     <td>GS리테일 가맹지원 파트</td>
   </tr>
   <tr>
@@ -100,6 +112,7 @@
 # 기술스택
 ## Front-End
 
+![Flutter](https://img.shields.io/badge/-Flutter-green?style=for-the-badge&logo=flutter)
 ![vuejs](https://img.shields.io/badge/-vuejs-green?style=for-the-badge&logo=vue.js)
 ![MiPlatform](https://img.shields.io/badge/-MiPlatform-green?style=for-the-badge&logo=miplatform)
 ![Nexacro14](https://img.shields.io/badge/-Nexacro14-green?style=for-the-badge&logo=tobesoft)
